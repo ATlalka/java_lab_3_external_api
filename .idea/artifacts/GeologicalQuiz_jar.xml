@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GeologicalQuiz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeologicalQuiz_jar</output-path>
+    <root id="archive" name="GeologicalQuiz.jar">
+      <element id="module-output" name="GeologicalQuiz" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.13.0/jackson-annotations-2.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
